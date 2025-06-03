@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Saloni kushwaha
 
 # 💫 About Me:
 👯 I’m looking to collaborate on: ideas that are meaningful, experimental, or just plain curious — I'm open.<br>🤝 I’m looking for help with: navigating this transition phase and discovering where my skills fit next.<br>🌱 I’m currently learning: a bit of everything — from tech to philosophy — seeing what clicks.<br>💬 Ask me about: making peace with not having it all figured out (yet).<br>⚡ Fun fact: I used to think I needed a plan. Now I collect possibilities.
