@@ -40,25 +40,50 @@ Open to collaboration, conversation, and well-built possibilities
 
 <div align="center">
   <a href="mailto:ninjaxoninja@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+    <img 
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
+      height="28"
+    />
   </a>
 </div>
 
 ###
 
+<!-- GitHub Stats (STACKED & LARGE) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninja297&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ninja297&theme=dark&hide_border=false" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ninja297&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+    width="85%" 
+    alt="GitHub stats"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=ninja297&theme=dark&hide_border=false" 
+    width="85%" 
+    alt="GitHub streak"
+  />
+</div>
+
+###
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ninja297&theme=radical&row=1&column=5&margin-w=15&margin-h=15" 
+    width="85%"
+    alt="GitHub trophies"
+  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninja297&theme=radical&row=1&column=6&margin-w=10&margin-h=10"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ninja297&icon=0&color=0"/>
+  <img 
+    src="https://visitcount.itsvg.in/api?id=ninja297&icon=0&color=0"
+    alt="profile views"
+  />
 </div>
