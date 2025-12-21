@@ -10,46 +10,55 @@ Open to collaboration, conversation, and well-built possibilities
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=c" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+  <!-- Backend / Tools -->
+  <img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+  <!-- Design & Creative -->
+  <img src="https://skillicons.dev/icons?i=figma" height="55"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="55"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="55"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="55"/>
+  <img src="https://skillicons.dev/icons?i=canva" height="55"/>
+  <img src="https://skillicons.dev/icons?i=inkscape" height="55"/>
+  <img src="https://skillicons.dev/icons?i=unreal" height="55"/>
+  <img src="https://skillicons.dev/icons?i=framer" height="55"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email badge" />
+  <a href="mailto:ninjaxoninja@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ninja297&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=ninja297&theme=radical&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ninja297&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ninja297&theme=dark&hide_border=false" height="150"/>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ninja297&theme=radical&row=1&column=6&margin-w=10&margin-h=10"/>
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ninja297&icon=0&color=0"/>
+</div>
