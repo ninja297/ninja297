@@ -1,6 +1,5 @@
 ## Hi there 👋 I am Saloni kushwaha
 
-# 💫 About Me:
 Open to collaboration, conversation, and well-built possibilities
 
 
