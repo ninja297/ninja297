@@ -55,12 +55,14 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ninja297&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninja297&theme=dark&hide_border=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ninja297&theme=dark&hide_border=false" height="150" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja297&theme=dark&hide_border=false&layout=compact" height="130" />
 </p>
+
+---
 
 ---
 
