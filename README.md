@@ -60,12 +60,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninja297&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="Saloni's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=ninja297&theme=dark&hide_border=false" height="150" alt="Saloni's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja297&theme=dark&hide_border=false&layout=compact&langs_count=8" height="130" alt="Saloni's most used languages" />
+  <img src="https://img.shields.io/github/followers/ninja297?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/ninja297/ninja297?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile README last updated" />
+  <img src="https://img.shields.io/github/repo-size/ninja297/ninja297?style=for-the-badge&logo=github&label=Profile%20Repo" alt="Profile repository size" />
 </p>
 
 ---
@@ -73,7 +70,9 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninja297&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="Saloni's GitHub trophies" />
+  <img src="https://img.shields.io/badge/Profile%20README-Live-2ea44f?style=for-the-badge&logo=github" alt="Profile README live" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-EA4C89?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Builder-Clean%20%26%20Thoughtful-5C2D91?style=for-the-badge" alt="Clean and thoughtful builder" />
 </p>
 
 ---
@@ -81,7 +80,7 @@
 ### Thought for the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Thought for the day" />
+  <em>Build with patience. Refine with care. Let the work speak clearly.</em>
 </p>
 
 ---
