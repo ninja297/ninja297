@@ -1,0 +1,65 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Saloni Kushwaha profile banner</title>
+  <desc id="desc">A soft colorful banner with stars, code windows, and creative design elements.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFF7FB"/>
+      <stop offset="0.34" stop-color="#F0F7FF"/>
+      <stop offset="0.68" stop-color="#F7FFF4"/>
+      <stop offset="1" stop-color="#FFF8E8"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="298" y1="95" x2="911" y2="253" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.42" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#64748B" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <circle cx="103" cy="80" r="58" fill="#FBCFE8" opacity="0.55"/>
+  <circle cx="1058" cy="96" r="82" fill="#BFDBFE" opacity="0.62"/>
+  <circle cx="1000" cy="285" r="54" fill="#BBF7D0" opacity="0.68"/>
+  <circle cx="209" cy="288" r="78" fill="#FED7AA" opacity="0.58"/>
+
+  <g opacity="0.5" stroke="#CBD5E1" stroke-width="2">
+    <path d="M76 232C148 194 204 210 257 246C319 288 393 289 462 232"/>
+    <path d="M789 72C857 116 924 112 982 77C1041 41 1103 50 1146 87"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="114" y="104" width="214" height="148" rx="18" fill="white"/>
+    <rect x="114" y="104" width="214" height="34" rx="18" fill="#1F2937"/>
+    <circle cx="139" cy="121" r="5" fill="#FB7185"/>
+    <circle cx="158" cy="121" r="5" fill="#FBBF24"/>
+    <circle cx="177" cy="121" r="5" fill="#34D399"/>
+    <path d="M151 171L126 194L151 217" stroke="#8B5CF6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M291 171L316 194L291 217" stroke="#0EA5E9" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M233 162L200 226" stroke="#F97316" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="860" y="111" width="214" height="138" rx="22" fill="white"/>
+    <rect x="889" y="139" width="73" height="73" rx="16" fill="#FCE7F3"/>
+    <rect x="978" y="139" width="45" height="45" rx="12" fill="#DBEAFE"/>
+    <rect x="978" y="198" width="45" height="16" rx="8" fill="#BBF7D0"/>
+    <path d="M910 191C930 158 949 168 941 194C934 218 906 212 910 191Z" fill="#F472B6"/>
+    <path d="M1015 139L1033 156L1015 173L997 156L1015 139Z" fill="#38BDF8"/>
+  </g>
+
+  <text x="600" y="147" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="700" fill="url(#ink)">Saloni Kushwaha</text>
+  <text x="600" y="193" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="21" fill="#334155">curious developer - thoughtful builder - design-minded coder</text>
+  <text x="600" y="232" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="17" fill="#64748B">logic + systems + soft creative details</text>
+
+  <g fill="#F59E0B">
+    <path d="M398 74L405 91L423 98L405 105L398 122L391 105L373 98L391 91L398 74Z"/>
+    <path d="M779 252L785 266L799 272L785 278L779 292L773 278L759 272L773 266L779 252Z"/>
+  </g>
+  <g fill="#8B5CF6" opacity="0.85">
+    <circle cx="458" cy="263" r="6"/>
+    <circle cx="833" cy="89" r="5"/>
+    <circle cx="720" cy="72" r="4"/>
+  </g>
+</svg>
