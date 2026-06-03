@@ -1,26 +1,39 @@
-<h1 align="center">Hi, I'm Saloni Kushwaha</h1>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Saloni Kushwaha profile banner" width="100%" />
+</p>
 
 <p align="center">
-  Open to collaboration, conversation, and well-built possibilities.
+  <a href="mailto:ninjaxoninja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-ff8fab?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/github/followers/ninja297?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </p>
 
 ---
 
 ## About Me
 
-- Curious developer exploring the intersection of **logic, design, and systems**
-- Enjoy building things that are **clean, functional, and thoughtfully crafted**
-- Currently strengthening foundations while experimenting across domains
+```js
+const saloni = {
+  focus: ["logic", "design", "systems"],
+  style: "clean, functional, thoughtfully crafted",
+  currently: "strengthening foundations while experimenting across domains",
+  openTo: ["collaboration", "conversation", "well-built possibilities"]
+};
+```
+
+I enjoy building things that feel clear, useful, and carefully put together. I like the space where code has structure, design has feeling, and small details make the whole thing easier to understand.
 
 ---
 
-## Connect With Me
+## Little Workbench
 
-<p align="left">
-  <a href="mailto:ninjaxoninja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+| Code | Design | Systems |
+| --- | --- | --- |
+| Writing clean logic | Shaping friendly interfaces | Connecting ideas into working flows |
+| Practicing fundamentals | Exploring visual tools | Learning how pieces fit together |
+| Building small experiments | Polishing details | Improving one step at a time |
 
 ---
 
@@ -57,34 +70,23 @@
 
 ---
 
-## GitHub Stats
+## Profile Notes
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ninja297?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/last-commit/ninja297/ninja297?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile README last updated" />
   <img src="https://img.shields.io/github/repo-size/ninja297/ninja297?style=for-the-badge&logo=github&label=Profile%20Repo" alt="Profile repository size" />
+  <img src="https://komarev.com/ghpvc/?username=ninja297&style=for-the-badge&color=ff69b4" alt="Profile views" />
 </p>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20README-Live-2ea44f?style=for-the-badge&logo=github" alt="Profile README live" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-EA4C89?style=for-the-badge" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/Builder-Clean%20%26%20Thoughtful-5C2D91?style=for-the-badge" alt="Clean and thoughtful builder" />
-</p>
-
----
-
-### Thought for the Day
-
-<p align="center">
-  <em>Build with patience. Refine with care. Let the work speak clearly.</em>
-</p>
+```txt
+today's tiny rule:
+make it useful
+make it kind
+make it a little more beautiful than yesterday
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninja297&style=flat-square&color=blue" alt="Profile views" />
+  Thanks for stopping by. Let's build something thoughtful.
 </p>
