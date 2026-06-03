@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Saloni Kushwaha profile banner" width="100%" />
+  <img src="./assets/banner.png" alt="Saloni Kushwaha profile banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="mailto:ninjaxoninja@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-ff8fab?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Code%20.%20Create%20.%20Inspire-bb86fc?style=for-the-badge" alt="Code create inspire" />
   <img src="https://img.shields.io/github/followers/ninja297?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </p>
 
@@ -16,24 +16,24 @@
 
 ```js
 const saloni = {
-  focus: ["logic", "design", "systems"],
-  style: "clean, functional, thoughtfully crafted",
-  currently: "strengthening foundations while experimenting across domains",
-  openTo: ["collaboration", "conversation", "well-built possibilities"]
+  mindset: ["curious", "consistent", "always learning"],
+  craft: ["structured logic", "clean interfaces", "quiet details"],
+  orbit: ["systems", "patterns", "intelligent tools"],
+  motto: "progress over perfection"
 };
 ```
 
-I enjoy building things that feel clear, useful, and carefully put together. I like the space where code has structure, design has feeling, and small details make the whole thing easier to understand.
+I enjoy building things that feel clear, useful, and carefully put together. I am drawn to the layers beneath the screen, the way ideas become instructions, and the way patterns slowly turn into something that can help people think or create better.
 
 ---
 
-## Little Workbench
+## Creative Workbench
 
-| Code | Design | Systems |
+| Craft | Curiosity | Direction |
 | --- | --- | --- |
-| Writing clean logic | Shaping friendly interfaces | Connecting ideas into working flows |
-| Practicing fundamentals | Exploring visual tools | Learning how pieces fit together |
-| Building small experiments | Polishing details | Improving one step at a time |
+| Writing logic that stays readable | Exploring how machines think and move | Building ideas with patience |
+| Designing calm, expressive details | Studying patterns across layers | Turning experiments into clarity |
+| Making small things better | Learning from every bug and breakthrough | Choosing progress over perfection |
 
 ---
 
@@ -79,10 +79,11 @@ I enjoy building things that feel clear, useful, and carefully put together. I l
 </p>
 
 ```txt
-today's tiny rule:
-make it useful
-make it kind
-make it a little more beautiful than yesterday
+current frequency:
+learn deeply
+build patiently
+polish the details
+leave the work clearer than you found it
 ```
 
 ---
