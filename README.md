@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/saloni-kushwaha-071022318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ninjaxoninja@gmail.com">
+  <a href="mailto:salonikushwaha623@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ninja297&style=for-the-badge&color=E7A85A&label=Profile+Views" alt="Profile views" />
@@ -71,12 +71,12 @@ class Saloni:
 ## 📊 &nbsp; By the Numbers
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ninja297&show_icons=true&count_private=true&hide_border=false&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&icon_color=5b86ff&border_color=1f2b50" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ninja297&show_icons=true&count_private=true&hide_border=false&cache_seconds=86400&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&icon_color=5b86ff&border_color=1f2b50" alt="GitHub stats" />
   <img height="180" src="https://github-readme-streak-stats.demolab.com?user=ninja297&hide_border=false&background=0a1330&ring=e7a85a&fire=e7a85a&currStreakLabel=e7a85a&sideLabels=c9d3f0&dates=8295b3&currStreakNum=ffffff&sideNums=ffffff&stroke=1f2b50&border=1f2b50" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja297&layout=compact&langs_count=8&hide_border=false&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&border_color=1f2b50" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja297&layout=compact&langs_count=8&hide_border=false&cache_seconds=86400&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&border_color=1f2b50" alt="Top languages" />
 </p>
 
 <br />
