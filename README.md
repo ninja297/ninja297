@@ -76,6 +76,24 @@ class Saloni:
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-0a1330?style=for-the-badge&labelColor=2e5bd6" alt="Open to research and internships" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ninja297&show_icons=true&count_private=true&hide_border=false&cache_seconds=86400&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&icon_color=5b86ff&border_color=1f2b50" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=ninja297&hide_border=false&background=0a1330&ring=e7a85a&fire=e7a85a&currStreakLabel=e7a85a&sideLabels=c9d3f0&dates=8295b3&currStreakNum=ffffff&sideNums=ffffff&stroke=1f2b50&border=1f2b50" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja297&layout=compact&langs_count=8&hide_border=false&cache_seconds=86400&bg_color=0a1330&title_color=e7a85a&text_color=c9d3f0&border_color=1f2b50" alt="Top languages" />
+</p>
+
+<br />
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 &nbsp; Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ninja297&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+</p>
+
 <br />
 
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
