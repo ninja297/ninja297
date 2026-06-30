@@ -1,7 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<a href="https://portfolio-fawn-omega-30.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1330,45:2e5bd6,100:8e2de2&height=210&section=header&text=Saloni%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Research&descSize=18&descAlignY=58" alt="Saloni Kushwaha" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:8e2de2,55:5b86ff,100:2e5bd6&height=220&section=header&text=Saloni%20Kushwaha&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Research&descSize=16&descAlignY=52" alt="Saloni Kushwaha" />
 
 <!-- ═══════════════ TYPING TAGLINE ═══════════════ -->
 <p align="center">
@@ -12,13 +10,10 @@
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 <p align="center">
-  <a href="https://portfolio-fawn-omega-30.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0a1330?style=for-the-badge&logo=vercel&logoColor=E7A85A" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/saloni-kushwaha-071022318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:salonikushwaha623@gmail.com">
+  <a href="mailto:ninjaxoninja@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ninja297&style=for-the-badge&color=E7A85A&label=Profile+Views" alt="Profile views" />
@@ -40,16 +35,6 @@ class Saloni:
         self.motto    = "earn a result that holds up over a demo that dazzles"
 ```
 
-I'm drawn to the layers beneath the screen — the way ideas become instructions, and the way
-patterns slowly turn into tools that help people think and create better. I like work that
-is clear, careful, and honest about its own limits.
-
-- 🔬 &nbsp;**Now:** *DeepSched* — a confidence-aware adaptive CPU scheduler (first-author research paper)
-- 🛰️ &nbsp;**Built:** *ExoHunter* (exoplanet detection from TESS light curves) · *CHRONOS* (industrial memory engine)
-- 🌱 &nbsp;**Exploring:** reinforcement learning, probabilistic ML, model interpretability
-- 🏆 &nbsp;**Hackmania Designathon —** 1st of 300+ · **SheFi Scholar '25**
-- 📫 &nbsp;**Reach me:** [email](mailto:salonikushwaha623@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saloni-kushwaha-071022318) · [portfolio](https://portfolio-fawn-omega-30.vercel.app/)
-
 <br />
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
@@ -57,17 +42,22 @@ is clear, careful, and honest about its own limits.
 
 <p align="center"><strong>Machine Learning &amp; Data</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ML stack" />
 </p>
 
 <p align="center"><strong>Languages &amp; Web</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,threejs&theme=dark" alt="Languages" />
 </p>
 
-<p align="center"><strong>Tools &amp; Data</strong></p>
+<p align="center"><strong>Tools &amp; Workflow</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,mysql,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,latex,bash,linux&theme=dark" alt="Tools" />
+</p>
+
+<p align="center"><strong>Databases &amp; Deploy</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,vercel&theme=dark" alt="Databases and deploy" />
 </p>
 
 <p align="center"><strong>Design &amp; Creative</strong></p>
@@ -125,4 +115,4 @@ current frequency
   → leave the work clearer than you found it
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,55:2e5bd6,100:0a1330&height=130&section=footer&text=Let%27s%20build%20something%20good.&fontSize=20&fontColor=ffffff&fontAlignY=72" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1330,50:2e5bd6,100:8e2de2&height=120&section=footer&text=Let%27s%20build%20something%20good.&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=twinkling" alt="footer" />
